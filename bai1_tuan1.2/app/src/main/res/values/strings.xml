@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LineaerLayout</string>
+    <string name="nhap_so_thu_1">Nhap so thu 1</string>
+    <string name="nhap_so_thu_2">Nhap so thu 2</string>
+</resources>
